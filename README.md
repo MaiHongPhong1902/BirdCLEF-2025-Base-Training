@@ -1,4 +1,4 @@
-# BirdCLEF-2025 Inference Pipeline
+# Kaggle | BirdCLEF-2025 Inference Pipeline
 
 This repository contains code for the BirdCLEF-2025 bird sound recognition challenge. The pipeline processes audio recordings of bird sounds, extracts mel spectrogram features, and uses deep learning models to identify bird species.
 
